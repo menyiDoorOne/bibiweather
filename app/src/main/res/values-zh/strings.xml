@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">碧碧天气</string>
+    <string name="air_quality">空气质量</string>
+    <string name="air_aqi">AQI指数</string>
+    <string name="forecast_weather">预报</string>
+    <string name="air_pm2.5">PM2.5指数</string>
+    <string name="live_suggestion">生活建议</string>
+    <string name="producer_name">Made by DoorOne</string>
+    <string name="wanna_say">我愿陪在你的身旁，为你挡风遮雨</string>
+    <string name="version_num">v3.0</string>
+    <string name="title_date">预报日期</string>
+    <string name="title_info">天气</string>
+    <string name="title_max">最高</string>
+    <string name="title_min">最低</string>
+
+</resources>

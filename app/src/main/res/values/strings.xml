@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">BibiWeather</string>
+    <string name="air_quality">air quality</string>
+    <string name="air_aqi">air AQI</string>
+    <string name="forecast_weather">forecast</string>
+    <string name="air_pm2.5">PM2.5</string>
+    <string name="live_suggestion">suggestion</string>
+    <string name="producer_name">Made by DoorOne</string>
+    <string name="wanna_say">I wanna always be with you</string>
+    <string name="version_num">v3.0</string>
+    <string name="title_date">date</string>
+    <string name="title_info">weather</string>
+    <string name="title_max">max</string>
+    <string name="title_min">min</string>
+
 </resources>

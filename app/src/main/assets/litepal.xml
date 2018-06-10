@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="bibi_weather"/>
+
+    <version value="1"/>
+
+    <list>
+        <mapping class="com.bibiweather.android.db.Province"/>
+        <mapping class="com.bibiweather.android.db.City"/>
+        <mapping class="com.bibiweather.android.db.County"/>
+    </list>
+
+</litepal>
